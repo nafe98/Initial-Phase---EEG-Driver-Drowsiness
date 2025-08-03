@@ -1,0 +1,30 @@
+https://www.kaggle.com/code/tenebris97/gridsearch-shap-lstm-dnn
+
+*** https://towardsdatascience.com/a-novel-approach-to-feature-importance-shapley-additive-explanations-d18af30fc21b
+
+*** https://www.analyticsvidhya.com/blog/2020/10/feature-selection-techniques-in-machine-learning/
+
+https://www.kaggle.com/code/kellibelcher/heart-disease-predictions-with-shapley#5-|-Shapley-Feature-Selection
+
+https://www.kaggle.com/code/bharathtoutireddy/feature-engineering-ensembles-voting-stacking
+
+https://www.kaggle.com/code/abhinand05/vision-transformer-vit-tutorial-baseline
+
+https://www.kaggle.com/code/arjunashok33/openvaccine-gcn-graphsage-gru-kfold#Define-model
+
+https://www.kaggle.com/code/albernard/openvaccine-gru-lstm-gkf-augs
+
+https://www.kaggle.com/competitions/stanford-covid-vaccine/code?competitionId=22111&sortBy=voteCount
+
+https://www.kaggle.com/code/timetraveller98/bert-for-mrna
+
+
+** https://www.kaggle.com/code/dimitreoliveira/time-series-forecasting-with-lstm-autoencoders
+
+** https://www.kaggle.com/code/remekkinas/ensemble-learning-meta-classifier-for-stacking
+
+https://www.kaggle.com/code/kirkdco/auto-encoder-vae-gan-part-i-auto-encoder
+
+https://www.kaggle.com/code/gchevalier/signal-prediction-with-a-seq2seq-rnn
+
+https://www.kaggle.com/code/code1110/janestreet-resnet-with-autoencoder-train
