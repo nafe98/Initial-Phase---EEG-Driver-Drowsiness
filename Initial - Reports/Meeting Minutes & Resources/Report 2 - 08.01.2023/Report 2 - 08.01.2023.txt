@@ -1,0 +1,16 @@
+Shapley Approximation (Shap)
+https://towardsdatascience.com/from-shapley-to-shap-understanding-the-math-e7155414213b
+
+Prophet
+https://facebook.github.io/prophet/
+https://facebook.github.io/prophet/docs/quick_start.html#python-api
+
+For Smoothing
+
+https://en.wikipedia.org/wiki/Exponential_smoothing
+https://machinelearningmastery.com/exponential-smoothing-for-time-series-forecasting-in-python/
+Golay Filter 
+
+Frontal**
+
+https://intl.choosemuse.com/products/muse-2?currency=USD&utm_medium=cpc&utm_source=google&utm_campaign=Google%20Shopping&stkn=307cb8607bc4&utm_source=google&utm_medium=cpc&gad_source=1&gclid=CjwKCAiA1-6sBhAoEiwArqlGPn30WkaCKyPGvF6e2rHrshauZeBHRz40Wt3WzHEplwD_mIKNrnPlrBoCiQ0QAvD_BwE
