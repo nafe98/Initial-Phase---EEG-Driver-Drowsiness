@@ -1,0 +1,18 @@
+apley's method feature selection
+
+Papers:
+
+Graph-Based EEG Signal Compression for Human–Machine Interaction
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10375318
+
+EEG-Over-BLE: A Low-Latency, Reliable, and Low-Power Architecture for Multichannel EEG Monitoring Systems
+https://ieeexplore.ieee.org/document/10105285
+
+An Application of Localized Model Explainability: Identifying Key Disparities in Social Determinants of Health in Food Deserts
+https://ieeexplore.ieee.org/document/10020372
+
+Appley: Approximate Shapley Value for Model Explainability in Linear Time
+https://ieeexplore.ieee.org/document/10020352
+
+
+
