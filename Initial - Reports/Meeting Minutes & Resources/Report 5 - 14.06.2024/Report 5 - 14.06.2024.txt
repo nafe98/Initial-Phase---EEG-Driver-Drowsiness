@@ -1,0 +1,4 @@
+https://neptune.ai/blog/zero-shot-and-few-shot-learning-with-llms#:~:text=Few%2Dshot%20learning%20is%20a,to%20a%20particular%20chat%20conversation
+
+
+https://www.geeksforgeeks.org/few-shot-learning-in-machine-learning/
